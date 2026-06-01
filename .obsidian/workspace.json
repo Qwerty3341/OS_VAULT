@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/configuraciones/XFCE Terminal no quiere usar Ctrl+↑↓.md",
+                "file": "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XFCE Terminal no quiere usar Ctrl+↑↓"
+              "title": "Git does not allow to make a push in a repositori"
+            }
+          },
+          {
+            "id": "619ab520975e9931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/configuraciones/Aplicaciones de Flatpak cambian el cursor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aplicaciones de Flatpak cambian el cursor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +184,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "da1e88dc824c147f",
+  "active": "619ab520975e9931",
   "lastOpenFiles": [
+    "Linux/configuraciones/Instalar un font.md",
+    "Linux/configuraciones/Aplicaciones de Flatpak cambian el cursor.md",
+    "Linux/configuraciones/Repositorio pide contraseña.md",
+    "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
+    "Linux/configuraciones/Linux no puede montar OS.md",
+    "Linux/configuraciones/nanorc.md",
+    "Linux/configuraciones/Change theme on Plank.md",
+    "Linux/configuraciones/Enable scroll in browsers for Linux.md",
+    "Linux/configuraciones/Cambiar el nombre de la computadora.md",
+    "Linux/tools/nmcli.md",
+    "Linux/tools/Modificar lightdm.md",
+    "Linux/configuraciones/XFCE Terminal no quiere usar Ctrl+↑↓.md",
     "Linux/tools/Buetooth.md",
     "Linux/tools/Checksum de linux.md",
     "Linux/tools/Conky.md",
@@ -180,23 +207,11 @@
     "Linux/configuraciones/Fondos XFCE.md",
     "Linux/configuraciones/Generar token de git para linux.md",
     "Linux/configuraciones/git desconoce al usuario.md",
-    "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
-    "Linux/configuraciones/Instalar un font.md",
     "Linux/configuraciones/Linux no puede montar la unidad OS.md",
-    "Linux/configuraciones/Linux no puede montar OS.md",
-    "Linux/tools/Modificar lightdm.md",
     "Linux/comandos/Usar AppImage.md",
-    "Linux/configuraciones/Cambiar el nombre de la computadora.md",
-    "Linux/configuraciones/Change theme on Plank.md",
-    "Linux/configuraciones/Enable scroll in browsers for Linux.md",
-    "Linux/configuraciones/XFCE Terminal no quiere usar Ctrl+↑↓.md",
-    "Linux/configuraciones/Repositorio pide contraseña.md",
     "Linux/configuraciones/Removing Firefox.md",
     "Linux/configuraciones/Poner un tema global.md",
-    "Linux/configuraciones/nanorc.md",
     "Linux/comandos/Descomprimir tar.md",
-    "Linux/Desinstalar distribución Linux.md",
-    "Linux/Distribuciones probadas.md",
     "Linux/tools",
     "Linux/comandos",
     "Linux/configuraciones",
