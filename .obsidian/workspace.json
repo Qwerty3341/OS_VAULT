@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/configuraciones/Aplicaciones de Flatpak cambian el cursor.md",
+                "file": "Linux/configuraciones/nanorc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicaciones de Flatpak cambian el cursor"
+              "title": "nanorc"
             }
           }
         ],
@@ -186,14 +186,18 @@
   },
   "active": "619ab520975e9931",
   "lastOpenFiles": [
-    "Linux/configuraciones/Instalar un font.md",
     "Linux/configuraciones/Aplicaciones de Flatpak cambian el cursor.md",
+    "Linux/configuraciones/Enable scroll in browsers for Linux.md",
+    "Linux/configuraciones/Change theme on Plank.md",
+    "Linux/configuraciones/Fondos de debian.md",
+    "Linux/configuraciones/Fondos XFCE.md",
+    "Linux/configuraciones/Generar token de git para linux.md",
+    "Linux/configuraciones/git desconoce al usuario.md",
+    "Linux/configuraciones/Instalar un font.md",
     "Linux/configuraciones/Repositorio pide contraseña.md",
     "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
     "Linux/configuraciones/Linux no puede montar OS.md",
     "Linux/configuraciones/nanorc.md",
-    "Linux/configuraciones/Change theme on Plank.md",
-    "Linux/configuraciones/Enable scroll in browsers for Linux.md",
     "Linux/configuraciones/Cambiar el nombre de la computadora.md",
     "Linux/tools/nmcli.md",
     "Linux/tools/Modificar lightdm.md",
@@ -203,10 +207,6 @@
     "Linux/tools/Conky.md",
     "Linux/tools/Conky se coloca en la pantalla secundaria.md",
     "Linux/tools/Mapa de caracteres en Linux.md",
-    "Linux/configuraciones/Fondos de debian.md",
-    "Linux/configuraciones/Fondos XFCE.md",
-    "Linux/configuraciones/Generar token de git para linux.md",
-    "Linux/configuraciones/git desconoce al usuario.md",
     "Linux/configuraciones/Linux no puede montar la unidad OS.md",
     "Linux/comandos/Usar AppImage.md",
     "Linux/configuraciones/Removing Firefox.md",

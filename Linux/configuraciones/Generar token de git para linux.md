@@ -1,5 +1,5 @@
 Generado por chatGPT
-# ✅ OPCIÓN RECOMENDADA (más cómoda): usar SSH 🔐
+# OPCIÓN RECOMENDADA (más cómoda): usar SSH 
 
 Así no usas tokens nunca más.
 
