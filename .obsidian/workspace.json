@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/configuraciones/nanorc.md",
+                "file": "Linux/comandos/Obtener los paquetes instalados por el usuario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nanorc"
+              "title": "Obtener los paquetes instalados por el usuario"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -93,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5035858154297
+    "width": 258.56247329711914
   },
   "right": {
     "id": "7cdbf33181f023a8",
@@ -165,13 +167,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Distribuciones probadas"
             }
+          },
+          {
+            "id": "8682c8cf61e63c08",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +193,17 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "619ab520975e9931",
   "lastOpenFiles": [
+    "Configuraciones de bash.md",
+    "Linux/comandos/Obtener los paquetes instalados por el usuario.md",
+    "Git push requires a token.md",
+    "README.md",
+    "Linux/configuraciones/nanorc.md",
     "Linux/configuraciones/Aplicaciones de Flatpak cambian el cursor.md",
     "Linux/configuraciones/Enable scroll in browsers for Linux.md",
     "Linux/configuraciones/Change theme on Plank.md",
@@ -197,7 +215,6 @@
     "Linux/configuraciones/Repositorio pide contraseña.md",
     "Linux/configuraciones/Git does not allow to make a push in a repositori.md",
     "Linux/configuraciones/Linux no puede montar OS.md",
-    "Linux/configuraciones/nanorc.md",
     "Linux/configuraciones/Cambiar el nombre de la computadora.md",
     "Linux/tools/nmcli.md",
     "Linux/tools/Modificar lightdm.md",
@@ -208,10 +225,6 @@
     "Linux/tools/Conky se coloca en la pantalla secundaria.md",
     "Linux/tools/Mapa de caracteres en Linux.md",
     "Linux/configuraciones/Linux no puede montar la unidad OS.md",
-    "Linux/comandos/Usar AppImage.md",
-    "Linux/configuraciones/Removing Firefox.md",
-    "Linux/configuraciones/Poner un tema global.md",
-    "Linux/comandos/Descomprimir tar.md",
     "Linux/tools",
     "Linux/comandos",
     "Linux/configuraciones",
